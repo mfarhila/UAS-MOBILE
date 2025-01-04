@@ -6,7 +6,7 @@
 2. **Malika Pradnya**  
 3. **Ame**  
 4. **Mohammad Rezzy Al Zamzammi** (2215051104)  
-5. **Fahril**  
+5. **M Farhil Amani** (2215051021)  
 
 
 Proyek ini merupakan hasil tugas akhir mata kuliah **Mobile & Cloud**. Aplikasi ini dirancang untuk memudahkan pengguna mencari, menyimpan, dan mengikuti resep masakan dengan antarmuka yang sederhana dan user-friendly.
